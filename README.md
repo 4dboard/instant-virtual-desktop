@@ -18,11 +18,9 @@ Instant Online Virtual Desktop Environment, a cloud-based desktop environment th
 
 ## Launch Your Virtual Desktop
 
+Click The Button Below To Spawn Your XFCE Environment! This type of virtual desktop environment is hosted on servers, and users can access it through a web browser. It is designed to provide a user with a seamless experience that replicates the functions of a physical computer, including hardware resources, operating systems, applications, and network infrastructures.
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/donspablo/instant-virtual-desktop)
-
-(Click The Button Below To Spawn Your XFCE Environment!)
-
-This type of virtual desktop environment is hosted on servers, and users can access it through a web browser. It is designed to provide a user with a seamless experience that replicates the functions of a physical computer, including hardware resources, operating systems, applications, and network infrastructures.
 
 The benefits of an instant online virtual desktop environment include cost savings, improved security, easy scalability, and flexibility. It eliminates the need for expensive hardware and software investments, and the admin can manage it from a central location.
 
