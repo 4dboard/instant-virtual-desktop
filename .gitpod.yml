@@ -1,0 +1,4 @@
+image: gitpod/workspace-full
+
+tasks:
+ - command: curl -s https://gist.githubusercontent.com/donspablo/576e3444a4b09799673a50504c5485ac/raw/588e68799759599c9735e92bcf6579ec0e8c06fd/instant-virtual-desktop.sh | sudo bash -s
